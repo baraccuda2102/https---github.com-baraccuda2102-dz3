@@ -1,18 +1,15 @@
-h1{
-    color:brown
+div{
+    color: blue;
 }
-
-
-h1{
-    font-family:'Courier New', Courier, monospace
-}
-
-
-i{
-    color: blueviolet;
-}
-
 
 p{
-    font-family: 'Courier New', Courier, monospace;
+    color: lightcoral;
+}
+
+id{
+    color: darkgreen;
+}
+
+div.class{
+    color: darkred;
 }
